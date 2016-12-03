@@ -25,7 +25,7 @@ setup(
     long_description=readme + '\n\n' + history,
     author="Adam Dobrawy",
     author_email='naczelnik@jawnosc.tk',
-    url='https://github.com/ad-m/allauth_watchdog_id',
+    url='https://github.com/watchdogpolska/allauth_watchdog_id',
     packages=[
         'allauth_watchdog_id',
     ],

@@ -21,7 +21,7 @@ except:
     from urllib.request import urlopen
 
 
-GITHUB_REPO = 'ad-m/allauth_watchdog_id'
+GITHUB_REPO = 'watchdogpolska/allauth_watchdog_id'
 TRAVIS_CONFIG_FILE = os.path.join(
     os.path.dirname(os.path.abspath(__file__)), '.travis.yml')
 
